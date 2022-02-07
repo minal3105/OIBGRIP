@@ -1,0 +1,133 @@
+#section1{
+    background-image: url("IMAGES/BACKGROUND/6.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    height:100%;
+}
+/* 1st page story margin */
+ .textmargin{
+    margin-top:10%;
+}
+/* story heading style */
+.title{
+    color:whitesmoke;
+    font-size:50px;
+    text-align: justify;
+}
+/* between story */
+.subtitle{
+    color:whitesmoke;
+    font-size:20px;
+    line-height:35px;
+    text-align: justify;
+    font-family: 'Bungee Inline', cursive;
+}
+#section2{
+    
+    background-color: rgb(156, 156, 156);
+}
+/* section2 movies name */
+.movies{
+    margin-top:5%;
+    color:black;
+    font-family: 'Bungee Inline', cursive;
+}
+.thumbnail{
+    background-color: black;
+    color:whitesmoke;
+}
+figcaption{
+    background-color: black ;
+    font-size: 15px;
+    font-weight: bold;
+    text-align:center;
+    font-family: 'Bungee Inline', cursive;
+    color:whitesmoke;
+}
+.s2{
+    background-color: black;
+}
+blockquote{
+    line-height: 30px;
+    background-color: black;
+    color: whitesmoke;
+    
+    
+    
+}
+#section3{
+    background-color: black;
+}
+
+.jumbotron{
+    line-height: 60px;
+    margin-top:4%;
+    font-family: 'Bungee Inline', cursive;
+    
+    
+}
+#section4{
+    
+    background-color:white;
+    color:black;
+    
+}
+.nav{
+    float:right;
+    background-color:none;
+    color:whitesmoke;
+    display: inline;
+    font-size: 20px;
+}
+.li:hover{
+    background-color:none;
+    color:whitesmoke;
+}
+
+.collapse{
+    background-color: black;
+}
+.icon-bar{
+    background-color: black;
+    color:whitesmoke;
+}
+.section4{
+    margin-top:5%;
+    
+}
+/* section4 margin */
+.r1{
+    margin-left:10%;
+}
+
+#section5{
+    background-image:url("IMAGES/BACKGROUND/7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h3{
+    background-color:whitesmoke;
+    color:black;
+    padding:15px;
+    font-family: 'Bungee Inline', cursive;
+}
+.btn{
+    float:right;
+   
+    
+}
+.lastp{
+    font-size:20px;
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Bungee Inline', cursive;
+}
+.foot{
+    margin-top:10%;
+    margin-bottom:0%;
+}
+.faq{
+    margin-top:10%;
+    margin-bottom:10%;
+}
