@@ -1,0 +1,47 @@
+body{
+    background-image: url("images/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fonts{
+    font-family: 'Creepster', cursive;
+    font-size:40px;
+}
+/* panel margin */
+.cal{
+    margin-top:5%;
+}
+#section1{
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn{
+    width:100%;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+}
+.btn2{
+    background-color: rgb(117, 117, 117);
+    color:whitesmoke;
+    
+}
+
+input{
+    padding-left:10%;
+    width:102%;
+    background-color: rgb(215, 248, 215);
+    border: 10px solid rgb(215, 248, 215);
+    
+}
+
+.panel-body{
+    width:80%;
+    background-image: url("images/background.jpg");
+    
+}
